@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://joshuaskootsky.github.io/chuyu-tian/posts/</loc>
     <lastmod>2020-09-21T09:17:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/statement/</loc>
+    <loc>https://joshuaskootsky.github.io/chuyu-tian/posts/statement/</loc>
     <lastmod>2020-09-21T09:17:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://joshuaskootsky.github.io/chuyu-tian/</loc>
     <lastmod>2020-09-21T09:17:55-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://joshuaskootsky.github.io/chuyu-tian/categories/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://joshuaskootsky.github.io/chuyu-tian/tags/</loc>
   </url>
   
 </urlset>
