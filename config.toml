@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Title: Chuyu Tian Site"
+theme = "ananke"
