@@ -1,5 +1,5 @@
 ---
-title: "Statement"
+title: "Information About Myself"
 date: 2020-09-21T09:17:55-04:00
 draft: false
 ---
