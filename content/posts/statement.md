@@ -14,4 +14,4 @@ Please reach me at <ct2823@columbia.edu>
 
 # CV
 
-A copy of my CV can be found here <link>
+A copy of my CV will be here soon.
