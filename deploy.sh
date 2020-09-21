@@ -38,4 +38,4 @@ cd public && git add --all && git commit -m "$msg" && cd ..
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Push source and build repos.
-git push github gh-pages
+git push -f github gh-pages
