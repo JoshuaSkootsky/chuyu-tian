@@ -2,7 +2,7 @@
 Academic Portfolio Website for Chuyu Tian
 
 # See live site:
-Visit [the live site here] (https://joshuaskootsky.github.io/chuyu-tian/ "Chuyu Tian Academic Portfolio")
+Visit [the live site here](https://joshuaskootsky.github.io/chuyu-tian/ "Chuyu Tian Academic Portfolio")
 
 # Built with Hugo
 Hugo - check them out! [https://gohugo.io/]
