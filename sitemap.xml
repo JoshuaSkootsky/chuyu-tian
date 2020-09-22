@@ -5,24 +5,34 @@
   <url>
     <loc>http://chuyutian.com/</loc>
     <lastmod>2020-09-21T09:17:55-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://chuyutian.com/posts/statement/</loc>
+    <loc>http://chuyutian.com/info/statement/</loc>
     <lastmod>2020-09-21T09:17:55-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://chuyutian.com/posts/</loc>
+    <loc>http://chuyutian.com/info/</loc>
     <lastmod>2020-09-21T09:17:55-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://chuyutian.com/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>http://chuyutian.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
