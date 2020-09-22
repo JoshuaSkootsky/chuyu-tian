@@ -1,4 +1,14 @@
-baseURL = "chuyutian.com"
+baseURL = "http://chuyutian.com"
 languageCode = "en-us"
 title = "Chuyu Tian"
 theme = "ananke"
+enableRobotsTXT = true
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+
+[params] 
