@@ -11,4 +11,5 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 
-[params] 
+[params]
+  show_reading_time = false

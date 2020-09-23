@@ -9,7 +9,7 @@ description: Aristotle and Confucius, Examined
 
 Hello!
 
-![Photo of Chuyu Tian](/IMG_7721.png)
+![Photo of Chuyu Tian](/IMG_7721.jpg)
 
 ## Academic Mission Statement
 
