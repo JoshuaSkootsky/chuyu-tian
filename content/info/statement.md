@@ -1,5 +1,5 @@
 ---
-title: "Curiculum Vitae"
+title: 'Statement and CV'
 date: 2020-09-21T09:17:55-04:00
 draft: false
 description: Aristotle and Confucius, Examined
@@ -21,4 +21,4 @@ Please reach me at <ct2823@columbia.edu>
 
 ## CV
 
-A copy of my CV can be found [here](/Chuyu%20Tian_CV.pdf "PDF of CV")
+A copy of my CV can be found [here](/Chuyu%20Tian_CV.pdf 'PDF of CV')

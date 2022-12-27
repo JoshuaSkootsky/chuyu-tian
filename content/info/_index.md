@@ -2,4 +2,4 @@
 title: Info
 ---
 
-We have the following information
+Welcome to the information page.

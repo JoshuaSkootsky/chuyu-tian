@@ -39,3 +39,6 @@ printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Push source and build repos.
 git push -f github gh-pages
+
+# Push source to main branch on github
+git push github main
