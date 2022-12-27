@@ -6,9 +6,28 @@
     <description>Recent content on Chuyu Tian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Sep 2020 09:17:55 -0400</lastBuildDate><atom:link href="http://chuyutian.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 09:17:55 -0400</lastBuildDate><atom:link href="http://chuyutian.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Curiculum Vitae</title>
+      <title>Contact</title>
+      <link>http://chuyutian.com/info/contact/</link>
+      <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
+      
+      <guid>http://chuyutian.com/info/contact/</guid>
+      <description>Please reach me at ct2823@columbia.edu.</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>http://chuyutian.com/info/home/</link>
+      <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
+      
+      <guid>http://chuyutian.com/info/home/</guid>
+      <description>I am a fifth year PhD student in Philosophy at Columbia University. My research focuses on Aristotle’s ethics, and includes such topics as: Aristotelian reasoning, akrasia, and particularism. I also have interests in classical East Asian and South Asian philosophy. Check out the menu bar to learn more about my research and teaching.
+I grew up in Beijing and received my B.A. with honors from Northwestern University. In my spare time, I enjoy translating poems, visiting museums, painting and dancing.</description>
+    </item>
+    
+    <item>
+      <title>Statement and CV</title>
       <link>http://chuyutian.com/info/statement/</link>
       <pubDate>Mon, 21 Sep 2020 09:17:55 -0400</pubDate>
       
@@ -17,6 +36,25 @@
 Academic Mission Statement I am a fourth year Ph.D. candidate in philosophy at Columbia University. I work mainly in Ancient philosophy and metaethics, with interest in Chinese philosophy. My dissertation aims to answer whether Aristotle is a particularist. I am also the rapporteur for the Neo-Confucianism Seminar at Columbia.
 Contact Me Please reach me at ct2823@columbia.edu
 CV A copy of my CV can be found here</description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://chuyutian.com/info/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chuyutian.com/info/cv/</guid>
+      <description>Here you can find my CV</description>
+    </item>
+    
+    <item>
+      <title>Dissertation</title>
+      <link>http://chuyutian.com/info/dissertation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://chuyutian.com/info/dissertation/</guid>
+      <description>The aim of my dissertation is to investigate the justificatory status of rules in Aristotle’s ethics.
+Based on Aristotle&amp;rsquo;s ethical corpus, I develop a model of ethical justification — a model where natural laws are summary of actions directly grounded by the good life, while conventional laws justify actions and are in turn justified by the good life — to offer a plausible explanation for the meta-ethical status of laws in Aristotle’s ethics.</description>
     </item>
     
   </channel>
