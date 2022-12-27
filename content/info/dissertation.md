@@ -1,6 +1,6 @@
 ---
 title: 'Dissertation'
-date: 2022-27-20T09:17:55-04:00
+date: '2022-12-27'
 draft: false
 description: Aristotle and Confucius, Examined
 ---
