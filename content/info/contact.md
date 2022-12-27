@@ -5,4 +5,6 @@ draft: false
 description: Aristotle and Confucius, Examined
 ---
 
-Please reach me at ct2823@columbia.edu.
+Please reach me at ct2823@columbia.edu
+
+![Photo of Chuyu Tian at the Temple of Dendur, Met Museum, in New York City](/IMG_6612.jpg)

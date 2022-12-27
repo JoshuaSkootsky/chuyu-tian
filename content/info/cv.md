@@ -5,4 +5,8 @@ draft: false
 description: Aristotle and Confucius, Examined
 ---
 
-Here you can find my CV
+![Dancing](/IMG_5369.jpg)
+
+Here you can find my CV.
+
+A copy of my CV can be found [here](/Chuyu%20Tian_CV.pdf 'PDF of CV')
