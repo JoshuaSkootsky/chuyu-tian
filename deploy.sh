@@ -26,6 +26,9 @@ rm -rf public/*
 echo "Building site with Hugo..."
 hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 
+# Build the project with SEO
+HUGO_ENV=production hugo
+
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
