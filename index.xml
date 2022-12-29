@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chuyu Tian</title>
+    <title>Welcome on Chuyu Tian</title>
     <link>http://chuyutian.com/</link>
-    <description>Recent content on Chuyu Tian</description>
+    <description>Recent content in Welcome on Chuyu Tian</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 27 Dec 2022 09:17:55 -0400</lastBuildDate><atom:link href="http://chuyutian.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://chuyutian.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://chuyutian.com/info/contact/</link>
+      <link>http://chuyutian.com/contact/</link>
       <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
       
-      <guid>http://chuyutian.com/info/contact/</guid>
-      <description>Please reach me at ct2823@columbia.edu</description>
+      <guid>http://chuyutian.com/contact/</guid>
+      <description>Please reach me at ct2823@columbia.edu
+Back</description>
     </item>
     
     <item>
       <title>CV</title>
-      <link>http://chuyutian.com/info/cv/</link>
+      <link>http://chuyutian.com/cv/</link>
       <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
       
-      <guid>http://chuyutian.com/info/cv/</guid>
-      <description>A copy of my CV can be found here</description>
+      <guid>http://chuyutian.com/cv/</guid>
+      <description>A copy of my CV can be found here
+Back</description>
     </item>
     
     <item>
-      <title>Home</title>
-      <link>http://chuyutian.com/info/home/</link>
+      <title>Introduction</title>
+      <link>http://chuyutian.com/home/</link>
       <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
       
-      <guid>http://chuyutian.com/info/home/</guid>
+      <guid>http://chuyutian.com/home/</guid>
       <description>I am a fifth year PhD student in Philosophy at Columbia University. My research focuses on Aristotle’s ethics, and includes such topics as: Aristotelian reasoning, akrasia, and particularism. I also have interests in classical East Asian and South Asian philosophy. I am a co-organizer of the Columbia Non-western Philosophy Reading Group and served as the rapporteur for Columbia Neo-Confucianism Seminar. Check out the menu bar to learn more about my research and teaching.</description>
     </item>
     
     <item>
       <title>Dissertation</title>
-      <link>http://chuyutian.com/info/dissertation/</link>
+      <link>http://chuyutian.com/dissertation/</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://chuyutian.com/info/dissertation/</guid>
+      <guid>http://chuyutian.com/dissertation/</guid>
       <description>The aim of my dissertation is to investigate the justificatory status of rules in Aristotle’s ethics.
 Based on Aristotle&amp;rsquo;s ethical corpus, I develop a model of ethical justification — a model where natural laws are summary of actions directly grounded by the good life, while conventional laws justify actions and are in turn justified by the good life — to offer a plausible explanation for the meta-ethical status of laws in Aristotle’s ethics.</description>
     </item>

@@ -2,32 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://chuyutian.com/</loc>
+    <loc>http://chuyutian.com/contact/</loc>
     <lastmod>2022-12-27T09:17:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://chuyutian.com/info/contact/</loc>
+    <loc>http://chuyutian.com/cv/</loc>
     <lastmod>2022-12-27T09:17:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://chuyutian.com/info/cv/</loc>
+    <loc>http://chuyutian.com/home/</loc>
     <lastmod>2022-12-27T09:17:55-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://chuyutian.com/info/home/</loc>
-    <lastmod>2022-12-27T09:17:55-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://chuyutian.com/info/</loc>
-    <lastmod>2022-12-27T09:17:55-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://chuyutian.com/info/dissertation/</loc>
+    <loc>http://chuyutian.com/dissertation/</loc>
     <lastmod>2022-12-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,6 +27,10 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://chuyutian.com/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://chuyutian.com/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
