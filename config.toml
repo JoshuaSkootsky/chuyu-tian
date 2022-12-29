@@ -15,3 +15,5 @@ enableRobotsTXT = true
 
 [params]
   show_reading_time = false
+  background_color_class = "bg-blue"
+  textColor = "black"
