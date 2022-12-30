@@ -8,7 +8,7 @@ menu: main
 
 ![Painting](/IMG_6617.jpg)
 
-© 2020, Chuyu Tian
+##### © 2020, Chuyu Tian
 
 The aim of my dissertation is to investigate the justificatory status of rules in Aristotle’s ethics.
 
