@@ -14,7 +14,7 @@ sectionPagesMenu = "main"
 
 [params]
   show_reading_time = false
-  background_color_class = "garamond bg-silver"
+  background_color_class = "garamond bg-dark-green"
   textColor = "garamond black"
   body_classes = "garamond"
   post_content_classes = "garamond"
