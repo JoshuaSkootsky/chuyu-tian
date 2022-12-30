@@ -9,4 +9,4 @@ description: Aristotle and Confucius, Examined
 
 A copy of my CV can be found [here](/Chuyu%20Tian_CV.pdf 'PDF of CV')
 
-[Back](/)
+[Dissertation](/dissertation)
