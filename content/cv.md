@@ -9,5 +9,3 @@ menu: main
 ![Dancing](/IMG_5369.jpg)
 
 A copy of my CV can be found [here](/Chuyu%20Tian_CV.pdf 'PDF of CV')
-
-[Dissertation](/dissertation)
