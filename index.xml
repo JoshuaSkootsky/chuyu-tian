@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on Chuyu Tian</title>
+    <title>Chuyu Tian</title>
     <link>http://chuyutian.com/</link>
-    <description>Recent content in About Me on Chuyu Tian</description>
+    <description>Recent content on Chuyu Tian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://chuyutian.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,8 +12,7 @@
       <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
       
       <guid>http://chuyutian.com/contact/</guid>
-      <description>Please reach me at ct2823@columbia.edu
-About Me</description>
+      <description>For paper drafts or any questions, please reach me at ct2823@columbia.edu</description>
     </item>
     
     <item>
@@ -22,8 +21,7 @@ About Me</description>
       <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
       
       <guid>http://chuyutian.com/cv/</guid>
-      <description>A copy of my CV can be found here
-Dissertation</description>
+      <description>A copy of my CV can be found here</description>
     </item>
     
     <item>
