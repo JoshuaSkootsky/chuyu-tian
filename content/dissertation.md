@@ -3,6 +3,7 @@ title: 'Dissertation'
 date: '2022-12-27'
 draft: false
 description: Aristotle and Confucius, Examined
+menu: main
 ---
 
 ![Painting](/IMG_6617.jpg)
