@@ -15,7 +15,7 @@ enableRobotsTXT = true
 
 [params]
   show_reading_time = false
-  background_color_class = ".avenir bg-gray"
-  textColor = ".avenir white"
-  body_classes = ".avenir"
-  post_content_classes = ".avenir"
+  background_color_class = "garamond bg-gray"
+  textColor = "garamond white"
+  body_classes = "garamond"
+  post_content_classes = "garamond"
