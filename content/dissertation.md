@@ -6,7 +6,7 @@ description: Aristotle and Confucius, Examined
 menu: main
 ---
 
-![Painting](/IMG_6617.jpg)
+{{< figure src="/IMG_6617.jpg" width="500" alt="Painting" >}}
 
 ##### © 2025, Chuyu Tian
 

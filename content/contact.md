@@ -8,4 +8,5 @@ menu: main
 
 For paper drafts or any questions, please reach me at ct2823@columbia.edu
 
-![Photo of Chuyu Tian at the Temple of Dendur, Met Museum, in New York City](/IMG_6612_smaller.jpg)
+{{< figure src="/IMG_6612_smaller.jpg" width="500" alt="Photo of Chuyu Tian at the Temple of Dendur, Met Museum, in New York City" >}}
+

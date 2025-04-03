@@ -6,6 +6,6 @@ description: Aristotle and Confucius, Examined
 menu: main
 ---
 
-![Dancing](/IMG_5369.jpg)
+{{< figure src="/IMG_5369.jpg" width="500" alt="Dancing" >}}
 
 A copy of my CV can be found [here](/Chuyu%20Tian_CV.pdf 'PDF of CV')

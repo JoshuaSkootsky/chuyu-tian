@@ -18,3 +18,8 @@ sectionPagesMenu = "main"
   textColor = "garamond black"
   body_classes = "garamond"
   post_content_classes = "garamond"
+
+[markup]
+  [markup.images]
+    # Enable image processing
+    process = true
