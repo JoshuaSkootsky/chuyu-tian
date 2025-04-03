@@ -18,7 +18,7 @@ rm -rf .git/worktrees/public/
 
 
 echo "Checking out gh-pages branch into public"
-git worktree add -B gh-pages public github/gh-pages
+git worktree add -B gh-pages public origin/gh-pages
 
 echo "Removing existing files"
 rm -rf public/*
@@ -41,7 +41,7 @@ cd public && git add --all && git commit -m "$msg" && cd ..
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Push source and build repos.
-git push -f github gh-pages
+git push -f origin gh-pages
 
 # Push source to main branch on github
-git push github main
+git push origin main
