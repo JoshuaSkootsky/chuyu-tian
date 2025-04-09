@@ -22,3 +22,29 @@ sectionPagesMenu = "main"
   [markup.images]
     # Enable image processing
     process = true
+
+  
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Dissertation"
+  url = "/dissertation/"
+  weight = 2
+
+[[menu.main]]
+  name = "CV"
+  url = "/cv/"
+  weight = 3
+
+[[menu.main]]
+  name = "YouTube"
+  url = "/youtube/"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 5
