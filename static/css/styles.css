@@ -1,58 +1,119 @@
 :root {
-    --primary-color: black; /* Text color - maps to textColor = "garamond black" */
-    --accent-color: #2e8b57; /* Sea Green - a good dark green alternative */
-    --background-color: #f0f8ff; /*AliceBlue a light color for dark green text */
-    --card-background: #fff; /* White, for content cards */
+  --primary-color: black;
+  --accent-color: #2e8b57;
+  --background-color: #f0f8ff;
+  --card-background: #fff;
+}
+
+/* Basic styling */
+body {
+  font-family: Garamond, serif;
+  margin: 20px;
+  background-color: var(--background-color);
+  color: var(--primary-color);
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  text-align: center;
+}
+
+/* Header styling */
+header {
+  background-color: var(--accent-color);
+  color: white;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header a {
+  color: white; /* Base style for header links */
+}
+
+/* Main content styling */
+main {
+  background-color: var(--card-background);
+  padding: 20px;
+  border-radius: 5px;
+}
+
+/* Footer styling */
+footer {
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+  background-color: var(--accent-color);
+  color: white;
+}
+
+/* Link styling */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation Menu */
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5em 0;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: white; /* Ensure text is white */
+}
+
+nav li {
+  margin: 0 0.5em;
+}
+
+/* Ensure list bullets are white */
+nav li::marker {
+  color: white;
+  font-size: 1em;
+}
+
+/* Explicitly style the links in the nav */
+header nav a {
+  display: block;
+  padding: 0.5em 1em;
+  color: white;
+  text-decoration: none;
+  background-color: var(--accent-color);
+  border-radius: 5px;
+}
+
+/* Hover effect for nav links */
+header nav a:hover {
+  background-color: rgba(46, 139, 87, 0.8);
+  text-decoration: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  nav ul {
+    flex-direction: column;
+    align-items: center;
   }
 
-  h1, h2, h3, h4, h5, h6 {
-    text-align: center;
+  nav li {
+    margin: 0.25em 0;
   }
-
-  img {
-    display: block;
-    margin: 0 auto;
-  }
-  
-  body {
-    font-family: Garamond, serif; /* Use Garamond or a default serif font */
-    margin: 20px;
-    background-color: var(--background-color); /* Use the specified background color */
-    color: var(--primary-color); /* Use the specified text color */
-    line-height: 1.6;
-  }
-  
-  header {
-    background-color: var(--accent-color);
-    color: white;
-    padding: 10px;
-    margin-bottom: 20px;
-  }
-  
-  header h1 {
-    margin: 0;
-  }
-  
-  main {
-    background-color: var(--card-background);
-    padding: 20px;
-    border-radius: 5px;
-  }
-  
-  footer {
-    margin-top: 20px;
-    padding: 10px;
-    text-align: center;
-    background-color: var(--accent-color);
-    color: white;
-  }
-  
-  a {
-    color: var(--accent-color);
-    text-decoration: none;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
+}

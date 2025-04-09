@@ -1,25 +1,9 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-<head>
-    <meta charset="utf-8">
-    <title>{{ .Title }} - {{ .Site.Title }}</title>
-    <link rel="stylesheet" href="/css/styles.css">
-</head>
-<body>
-    <header>
-        <h1><a href="/">{{ .Site.Title }}</a></h1>
-    </header>
-    <main>
-        <h1>{{ .Title }}</h1>
-        <p>{{ .Content }}</p>
-        {{ if .TableOfContents }}
-        <div class="toc">
-            {{ .TableOfContents }}
-        </div>
-        {{ end }}
-    </main>
-    <footer>
-        &copy; {{ now.Year }} {{ .Site.Title }}
-    </footer>
-</body>
-</html>
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Content }}</p>
+  {{ if .TableOfContents }}
+  <div class="toc">
+      {{ .TableOfContents }}
+  </div>
+  {{ end }}
+{{ end }}

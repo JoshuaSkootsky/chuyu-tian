@@ -10,4 +10,4 @@ I am a fifth year PhD student in Philosophy at Columbia University. My research 
 
 I grew up in Beijing and received my B.A. with honors from Northwestern University. I wrote my honors thesis comparing the ideas of community in Confucius and Aristotle. In my spare time, I enjoy translating poems, visiting museums, painting, and dancing.
 
-[CV](/cv)
+[CV](http://chuyutian.com/cv/)
