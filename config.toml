@@ -1,7 +1,6 @@
 baseURL = "http://chuyutian.com"
 languageCode = "en-us"
 title = "Chuyu Tian"
-theme = "ananke"
 enableRobotsTXT = true
 sectionPagesMenu = "main"
 
