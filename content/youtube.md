@@ -3,7 +3,6 @@ title: YouTube Channel
 date: 2024-04-09
 draft: false
 description: My YouTube channel exploring Aristotle's ethics and philosophy
-menu: main
 ---
 
 ## Welcome to My YouTube Channel!
