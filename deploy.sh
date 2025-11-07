@@ -35,6 +35,9 @@ if [ -n "$*" ]; then
 	msg="$*"
 fi
 
+# Prevent Jekyll
+touch public/.nojekyll
+
 echo "Updating gh-pages branch with message {$msg}"
 cd public && git add --all && git commit -m "$msg" && cd ..
 
