@@ -1,4 +1,4 @@
-baseURL = "http://chuyutian.com"
+baseURL = "https://chuyutian.com/"
 languageCode = "en-us"
 title = "Chuyu Tian"
 enableRobotsTXT = true
