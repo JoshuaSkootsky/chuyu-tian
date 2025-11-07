@@ -2,7 +2,7 @@
 title: 'Chuyu Tian'
 ---
 
-![Reading by the Hudson](/IMG_2340.jpg)
+{{< figure src="/IMG_2340.jpg" width="500" alt="Reading by the Hudson" >}}
 
 ## About Me
 
