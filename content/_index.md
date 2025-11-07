@@ -8,6 +8,8 @@ title: 'Chuyu Tian'
 
  My research focuses on Aristotle’s ethics, and includes such topics as: Aristotelian reasoning, akrasia, and particularism. I also have interests in classical East Asian and South Asian philosophy. I am a co-organizer of the [Columbia Non-western Philosophy Reading Group](https://nonwesternphilosophy.wordpress.com) and served as the rapporteur for Columbia Neo-Confucianism Seminar. Check out the menu bar to learn more about my research and teaching.
 
- I grew up in Beijing and received my B.A. with honors from Northwestern University. I wrote my honors thesis comparing the ideas of community in Confucius and Aristotle. In my spare time, I enjoy translating poems, visiting museums, painting, and dancing.
+ I grew up in Beijing and received my B.A. with honors from Northwestern University. I wrote my honors thesis comparing the ideas of community in Confucius and Aristotle. In my spare time, I enjoy translating poems, visiting museums, painting, and dancing. I have since recieved my PhD from Columbia University in 2025, with a focus on the political foundations of Aristotle's ethics.
+ 
+[PhD dissertation](http://chuyutian.com/dissertation/)
 
 [CV](http://chuyutian.com/cv/)

@@ -9,7 +9,7 @@ description: Aristotle and Confucius, Examined
 
 ##### © 2025, Chuyu Tian
 
-TThe aim of my dissertation is to investigate the “why” that grounds Aristotle’s ethical theory. I
+The aim of my dissertation is to investigate the “why” that grounds Aristotle’s ethical theory. I
 clarify the meta-ethical status of ethical judgments and investigate the foundation of Aristotle’s
 ethics. My project takes ethical naturalism as a point of departure. That is, it explores the way in
 which the foundations of Aristotle’s ethics lie in human nature, especially political nature.
