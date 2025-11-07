@@ -1,5 +1,8 @@
 ---
-title: 'Chuyu Tian'
+title: 'Home'
+date: '2025-12-27T09:17:55-04:00'
+draft: false
+description: Aristotle and Confucius, Examined
 ---
 
 {{< figure src="/IMG_2340.jpg" width="500" alt="Reading by the Hudson" >}}

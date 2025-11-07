@@ -9,6 +9,7 @@
 </head>
 <body>
     <header>
+    
             <h1><a href="/">{{ .Site.Title }}</a></h1>
             <nav>
                 <ul>
@@ -19,7 +20,7 @@
             </nav>
     </header>
     <main>
-        {{ block "main" . }}{{ end }}
+        {{ .Content }}
     </main>
     <footer>
         &copy; {{ now.Year }} {{ .Site.Title }}
