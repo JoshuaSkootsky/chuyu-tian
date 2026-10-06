@@ -1,48 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chuyu Tian</title>
-    <link>http://chuyutian.com/</link>
-    <description>Recent content on Chuyu Tian</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://chuyutian.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>YouTube Channel</title>
-      <link>http://chuyutian.com/youtube/</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://chuyutian.com/youtube/</guid>
-      <description>Chuyu Tian&amp;rsquo;s YouTube Channel</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://chuyutian.com/contact/</link>
-      <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
-      
-      <guid>http://chuyutian.com/contact/</guid>
-      <description>For paper drafts or any questions, please reach me at ct2823@columbia.edu
- </description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>http://chuyutian.com/cv/</link>
-      <pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
-      
-      <guid>http://chuyutian.com/cv/</guid>
-      <description>A copy of my CV can be found here</description>
-    </item>
-    
-    <item>
-      <title>Dissertation</title>
-      <link>http://chuyutian.com/dissertation/</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>http://chuyutian.com/dissertation/</guid>
-      <description>© 2025, Chuyu Tian The aim of my dissertation is to investigate the “why” that grounds Aristotle’s ethical theory. I clarify the meta-ethical status of ethical judgments and investigate the foundation of Aristotle’s ethics. My project takes ethical naturalism as a point of departure. That is, it explores the way in which the foundations of Aristotle’s ethics lie in human nature, especially political nature.
-In the first chapter, I propose a person-centric account of virtue and virtuous action.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Home on Chuyu Tian</title>
+		<link>https://chuyutian.com/</link>
+		<description>Recent content in Home on Chuyu Tian</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://chuyutian.com/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>YouTube Channel</title>
+				<link>https://chuyutian.com/youtube/</link>
+				<pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+				<guid>https://chuyutian.com/youtube/</guid>
+				<description>&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@chuyutian7004&#34;&gt;Chuyu Tian&amp;rsquo;s YouTube Channel &lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Contact</title>
+				<link>https://chuyutian.com/contact/</link>
+				<pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
+				<guid>https://chuyutian.com/contact/</guid>
+				<description>&lt;p&gt;For paper drafts or any questions, please reach me at &lt;a href=&#34;mailto:ct2823@columbia.edu&#34;&gt;ct2823@columbia.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;figure&gt;&lt;img src=&#34;https://chuyutian.com/IMG_6612_smaller.jpg&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Photo of Chuyu Tian at the Temple of Dendur, Met Museum, in New York City&#34; width=&#34;500&#34;&gt;&#xA;&lt;/figure&gt;</description>
+			</item>
+			<item>
+				<title>CV</title>
+				<link>https://chuyutian.com/cv/</link>
+				<pubDate>Tue, 27 Dec 2022 09:17:55 -0400</pubDate>
+				<guid>https://chuyutian.com/cv/</guid>
+				<description>&lt;figure&gt;&lt;img src=&#34;https://chuyutian.com/IMG_5369.jpg&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Dancing&#34; width=&#34;500&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;A copy of my CV can be found &lt;a href=&#34;https://chuyutian.com/Chuyu%20Tian_CV.pdf&#34; title=&#34;PDF of CV&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Dissertation</title>
+				<link>https://chuyutian.com/dissertation/</link>
+				<pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+				<guid>https://chuyutian.com/dissertation/</guid>
+				<description>&lt;figure&gt;&lt;img src=&#34;https://chuyutian.com/IMG_6617.jpg&#34;&#xA;&#x9;&#x9;&#x9;alt=&#34;Painting&#34; width=&#34;500&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h5 id=&#34;-2025-chuyu-tian&#34;&gt;© 2025, Chuyu Tian&lt;/h5&gt;&#xA;&lt;p&gt;The aim of my dissertation is to investigate the “why” that grounds Aristotle’s ethical theory. I&#xA;clarify the meta-ethical status of ethical judgments and investigate the foundation of Aristotle’s&#xA;ethics. My project takes ethical naturalism as a point of departure. That is, it explores the way in&#xA;which the foundations of Aristotle’s ethics lie in human nature, especially political nature.&lt;/p&gt;&#xA;&lt;p&gt;In the first chapter, I propose a person-centric account of virtue and virtuous action. Although&#xA;Aristotle’s ethics involves rules, it differs fundamentally from rule-based ethics by beginning with&#xA;the human being: the notion of the good person is necessary in defining virtue and action in&#xA;accordance with virtue. I argue that rules do not pre-exist the users of rules. The virtuous person is not only an exemplar or someone who has unique epistemic access by being (1) a good observer,&#xA;but is (2) a litmus test to what is good for human beings, as well as (3) the definition of what is&#xA;good for humans by being the natural human form. I devote the rest of the chapter to defending this&#xA;account against hyper-realists by showing that it is not relativism, but constitutivism.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
