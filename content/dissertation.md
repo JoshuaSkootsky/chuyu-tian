@@ -7,7 +7,9 @@ description: Aristotle and Confucius, Examined
 
 {{< figure src="/IMG_6617.jpg" width="500" alt="Painting" >}}
 
+{{< center >}}
 ##### © 2025, Chuyu Tian
+{{< /center >}}
 
 The aim of my dissertation is to investigate the “why” that grounds Aristotle’s ethical theory. I
 clarify the meta-ethical status of ethical judgments and investigate the foundation of Aristotle’s
